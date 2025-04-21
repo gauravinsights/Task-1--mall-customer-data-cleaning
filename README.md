@@ -1,1 +1,4 @@
-# Task-1--mall-customer-data-cleaning
+- Removed 3 duplicate rows.
+- Filled 2 missing Gender values manually.
+- Standardized 'Gender' values to lowercase (male/female).
+- Renamed all columns to lowercase with underscores.
